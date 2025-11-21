@@ -1,1 +1,5 @@
-
+Producto, Cantidad, Precio_Unitario, Total
+Aceite, 10, $1.50, $15
+Sal, 16, $1, $16
+Mortadela, 9, $0.50, $4.50
+Pan, 14, $0.10, $1.40
